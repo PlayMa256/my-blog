@@ -57,7 +57,7 @@
     "gatsby"
   ],
   "scripts": {
-    "test": "echo \"Disabled\" && exit 1",
+    "test": "echo \"Disabled\"",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "devhost": "gatsby develop --host 192.168.0.112",
