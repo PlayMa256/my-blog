@@ -2,26 +2,12 @@
 title: About
 ---
 
-This is a demo site of the [HeroBlog](https://github.com/greglobinski/gatsby-starter-hero-blog), a [GatsbyJS](https://www.gatsbyjs.org/) starter.
+Bachelor on Information systems, i am a fullstack dev, always looking to learn the lastest technologies available and see what are the pros and cons of each, so i can understand why and what they are good for, doing this i am "always" going to be prepare to a new situation that i will face up.
 
-### Features:
+Currently working as a frontend developer but on the day to day routine i have to be able to read, debug and change code on different languages, also as any other developer, some DEVOPS tasks as well. There i'm willing to learn everything i can, having experiences with different programming languages, systems architechtures and programming best practices.
 
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **CSS** with `styled-jsx` and `PostCSS`
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (category based post list)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* 100% **PWA** (manifest.webmanifest, offline support, favicons)
-* Google **Analytics**
-* App **favicons** generator (node script)
-* Easy customizable base **styles** via `theme` object generated from `yaml` file (fonts, colors, sizes)
-* React **v.16** (gatsby-plugin-react-next)
-* **Components** lazy loading (social sharing)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Webpack `BundleAnalyzerPlugin`
+My main focus when i am coding is to create user readable code and functional without any performance compromise.
+
+If you want to contact me, dm me on any social media or matheus.g.silva@hotmail.com
+
+I'm open for freelances and remote work as well!
