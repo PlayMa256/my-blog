@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-pages-search-js","path":"/search/","result":{"data":{"site":{"siteMetadata":{"facebook":{"appId":""}}}},"pageContext":{"isCreatedByStatefulCreatePages":true}}}
+{"componentChunkName":"component---src-pages-search-js","path":"/search/","result":{"data":{"site":{"siteMetadata":{"algolia":{"appId":"EZJ2536ZZC","searchOnlyApiKey":"b9966699b4f7c7110ccd6115072c98fc","indexName":"blog_index"},"facebook":{"appId":""}}}},"pageContext":{"isCreatedByStatefulCreatePages":true}}}
