@@ -1,6 +1,7 @@
 {
   "parser": "babel-eslint",
   "extends": [
+    "google",
     "prettier",
     "prettier/react",
     "eslint:recommended",
@@ -24,7 +25,6 @@
     "camelcase": "warn",
     "func-names": "off",
     "global-require": "warn",
-    "require-jsdoc": "off",
     "import/no-dynamic-require": "warn",
     "import/no-extraneous-dependencies": "off",
     "no-console": "off",

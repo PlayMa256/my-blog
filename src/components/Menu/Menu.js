@@ -123,7 +123,7 @@ class Menu extends React.Component {
   };
 
   closeMenu = e => {
-    // e.preventDefault();
+    //e.preventDefault();
 
     if (this.state.open) {
       this.setState({ open: false });
@@ -138,7 +138,6 @@ class Menu extends React.Component {
     }
   };
 
-  // eslint-disable-next-line require-jsdoc
   render() {
     const { screenWidth, theme } = this.props;
     const { open } = this.state;
