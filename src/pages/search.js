@@ -61,11 +61,6 @@ export const query = graphql`
   query SearchQuery {
     site {
       siteMetadata {
-        algolia {
-          appId
-          searchOnlyApiKey
-          indexName
-        }
         facebook {
           appId
         }
